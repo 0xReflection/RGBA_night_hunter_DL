@@ -148,7 +148,7 @@ unregistersymbol(HuntC_B)
 dealloc(sleepTime)
 dealloc(GetPtrMem)
 unregistersymbol(SetHuntColor)
-unregistersymbol(SetCodeExit) //deallocl(Cheat_table_creater_IMIG)
+unregistersymbol(SetCodeExit) 
 {
 // ORIGINAL CODE - INJECTION POINT: engine_x64_rwdi.dll+48E1FD
 
